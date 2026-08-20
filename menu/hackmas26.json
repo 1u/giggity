@@ -14,8 +14,8 @@
     },
     "url": "https://openki.hack-mas.at/api/0/xml/schedule?region=6JRpcbs8v39PyeA48&limit=999",
     "timezone": "Europe/Vienna",
-    "start": "2026-08-27",
-    "end": "2024-09-01",
-    "refresh_interval": 1800,
-    "version": 2026081901
+    "start": "2026-08-26",
+    "end": "2026-08-30",
+    "refresh_interval": 86400,
+    "version": 2026081902
 }
